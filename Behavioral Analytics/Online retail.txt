@@ -1,0 +1,17 @@
+
+ ---<Customer Behavior Analytics>---
+
+Dataset Link: https://data.world/uci/online-retail
+
+This is a descriptive analysis aims to uncover trends 
+and behavioral patterns to promote and expand the bussiness
+the dataset taken is transactional data which contains 
+transaction records in between 01/12/2010 and 09/12/2011 
+for a UK-based and registered non-store online retail.
+The company mainly sells unique all-occasion gifts. 
+Many customers of the company are wholesalers.
+
+The tool used for data manupulation is MYSQL workbench
+and Tableau for data analysis and Visualiation.
+the procedure for that is importing dataset>Data Wrangling
+>Data Analysis>Data Visualization>Sharing.  
